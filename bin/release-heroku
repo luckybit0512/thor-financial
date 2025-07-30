@@ -15,3 +15,9 @@ git commit --allow-empty -m  "Deploy $TAG"
 git tag "$TAG"
 git push
 git push --tags origin master
+
+# git add, commit, checkout, push
+git add .
+git commit  -m 'refactor/readme'
+git branch -m 'branchname'
+#git instruction
