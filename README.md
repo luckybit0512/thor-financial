@@ -11,6 +11,8 @@
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 For more details, check out the [Heroku-specific deploy documentation](http://www.metabase.com/docs/latest/operations-guide/running-metabase-on-heroku.html) for help with:
+#Instruction
 * Upgrading beyond Heroku's free plan
 * Deploying Metabase version updates to Heroku
 * Troubleshooting
+* Developing more sufficently
